@@ -39,8 +39,15 @@ While traditional engines find similar items, this system bridges the gap betwee
 ---
 
 ## Visual Discovery Preview
+
+### System Overview
 <p align="center">
-  <img src="https://via.placeholder.com/850x450.png?text=Aesthetic+Mapping+%26+Recommendation+Flow" width="850" title="Visual Vibe Analysis">
+  <img src="VibeFits_Overview.png">
+</p>
+
+### System Working
+<p align="center">
+  <img src="VibeFits_Working.png">
 </p>
 
 ---
