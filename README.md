@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👁️ Visual-Common Sense Recommender</h1>
+  <h1>Visual-Common Sense Recommender</h1>
   <p><strong>AI-Driven Aesthetic Discovery Engine | Vision Transformer (ViT) | Latent Vibe Analysis</strong></p>
 </div>
 
