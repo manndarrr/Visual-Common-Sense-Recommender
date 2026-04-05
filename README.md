@@ -53,7 +53,7 @@ While traditional engines find similar items, this system bridges the gap betwee
 ---
 
 ## Author
-**Mandar Deshmukh** *Computer Science & Engineering* [LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)
+**Mandar Deshmukh** *Computer Science & Engineering* [LinkedIn](https://linkedin.com/in/mandar-deshmukh-0810402b2)
 
 ---
 <div align="center">
